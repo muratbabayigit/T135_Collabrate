@@ -4,6 +4,7 @@ public class Ortak {
         System.out.println("Ne yaparsan yap AŞK ile yap");
         System.out.println("Elif´ten dünyaya merhaba!");
         System.out.println("Ortalık karışacak vaziyet alın");
+        System.out.println("Hersey cok guzel olacak");
 
         
 
