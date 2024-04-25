@@ -5,6 +5,13 @@ public class Ortak {
         System.out.println("Elif´ten dünyaya merhaba!");
         System.out.println("Ortalık karışacak vaziyet alın");
         System.out.println("II.Merge Harbi");
+        System.out.println("deneme selçuk");
+        System.out.println("Hersey cok guzel olacak");
+
+
+        
+
+
         
 
 
